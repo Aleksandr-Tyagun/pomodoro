@@ -1,20 +1,12 @@
-# tomato_timer
+# Pomodoro timer (Vue/Nuxt, Sass)
 
-## Build Setup
+[DEMO](https://pomodoro-5c335b.netlify.app/)
 
-```bash
-# install dependencies
-$ npm install
+## Description
+Timer based on Pomodoro Technique 
+- 25 minutes working time
+- 5 minutes break (every 5th break is 15 minutes)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+Read more about Pomodoro Technique [wiki](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+![gif](https://s7.gifyu.com/images/tomato2.gif)
